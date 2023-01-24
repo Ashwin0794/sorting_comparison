@@ -1,4 +1,2 @@
-hello
-temp
-# sorting_comparison
-hello
+Comparing all sorting algorithms
+
